@@ -1,5 +1,7 @@
 # Dog
-Dog Challenge
+
+Dog challenge
+
 using System;
 namespace DogTest
 {
